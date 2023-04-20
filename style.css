@@ -1,0 +1,15 @@
+p{
+    font-size: 28px;
+}
+table{
+    width: 300px;
+    margin-bottom: 20px;
+}
+.titulo{
+    background-color: black;
+    color: white;
+}
+table td{
+    padding: 10px;
+    text-align: center;
+}
